@@ -50,7 +50,7 @@ if piclink.strip():
 		raise Exception("Unable to send image: " + response.json()["description"])
 
 # Send poll
-url = f"https://api.telegram.org/bot{config.token}/sendPoll"
+url = "https://api.telegram.org/bot{config.token}/sendPoll"
 query = {"chat_id": f"@{config.channel}", "question": question,
 		 "type":"quiz", "correct_option_id": answer_index, "is_anonymous": config.anonymous}
 response = requests.request("GET", url, params = query, json = {"options": options})
