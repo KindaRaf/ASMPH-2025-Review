@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "asmph-2025-review",
+  "private_key_id": "db806b7990e707f7222cccd0060e6572d1c6fc59",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCS8BSA+27Snrda\nuyZYCHIMifQCnwJbcJVyA0jHJllGF38C21ywdku3NaP5Xx6tHlz6xu4pa+sSTaja\nIwrQwBr7cq/36CYcpVkqEJ4TP9NSenuU71DxAGr936VkLvCAUe6TijcVO1xy/27A\nIEJHNEwNAWSCVRDjMTHtxy0SoVL4iXGEfR+XowOs1DcpohXnGpBloVOXNTo+5nZt\nRUxhEKA2QH/7hiLrzV82Xg6iU9Geu2maISOGOzuerXIjHJMLdwXXtbPncUDZiZYd\nQuto34n4EraTJf0oyn+bNHEgcxOuNlKPC1dHxdpPpMpSY8xLRHBbXY6C2L/cl1wS\nqM88SlpDAgMBAAECggEAPJvD0Vok4cKu/cFRdSFyraJfoI8nIUGEm0UoiWDTlRpO\n/QYvquf4nkcFbnCiTiVGk/hnN3W4vlGDMwseRHHhD1PEqry6r7kyWKwHEAiVKaG1\nBP9bwzT5bOOJrJPCByQEhR4PT3YvUY30CFKmFAnJztmCtFHTR+s8XYh5GoSpnTMw\nEq4A0eDg/vXbI029Lqa9CKSOuCm08j5of5ughmXrJs4r1TqXyyTfffB8hUnPKMxw\nv+PEcmQcFV0iyTQC7UmqtXYlv6G3E95kbrWPQESB2W+auS6sR9v0LlCtq05FKLMS\nGtTLjLw3BlFHXJin67fJEfurtl4ltYuA4mijw3YwfQKBgQDK21XU8tAXnpUoyvuS\n13kJthR32KOqx9F2CjImdW9l8r+tqmYs6ZWrnjxncy8xb07wW/FKkhpxy9JjUAAa\nAh9UXICSIUgbwsurwmTlI7zR+ntwwePJiGgfJ+d1PaPB4n0K9Fbb/I14D38gqaSQ\nVjWGBLU2EOedJzaFLXZn1JBcNQKBgQC5boTMlrT1vrylviSnUXyWGD26SNZUw+x1\nMhIXSL/pAh0tEJ2HgTgiyMZVXCuRWqTsn47hnM3NYnje5LL3IySVUh5DsXlCgcEK\n3pigy4cg/tKMmBa0t7YsIpaqgnxIC/At++NP8vAI3ezfqdrW3rw+WsK2jIaZ5atA\nU5lQTUz7lwKBgQCDtIA3sCZ3D1kckR1hK1DEg1kqrpckrHNMRjZlTd2zvTXB1V5d\nTpMER8pECD7dw7zmxWsV1WIh/AluvWQzfqlEpoI7XixpCcIelCnZs6hGVHCMtvXj\nxRKFF+1o60pE+X3h/N3gGkrnZnhNhpb3t2Es0CWvIq6eE/WL5gZ4R0Qq+QKBgQCB\nhyzmiIOBganfEPIjmm0vn2FHBegJsA41UzOF5kB/8AUXXJrdc6sVyS+ZotegIjRA\nQbiZ6mFsDVQnRpOoxHiigYk4efkdNuv0vsbY0zLiHn5OzVJXDFkJfWPHWXydCxHL\n3T7MswNu/i6fkdOW8mGGIPoQcBr514+HUJ4wlL6oowKBgCieNMa23wYpSDLcZbcc\nmWYTq4CgKUTeIfoUtH1Fkd+tSj43gj8g5PECXnT2wH5AjGZGZB5pkAx+rha1YALB\n4AHC9yR63FKjbiJyio73sQ29rKhaKXGNV0ewTfc0ULoRKUsocBhd8xwWP8uIu1Af\npMV1lVhFYk963dDAyB41G5Tx\n-----END PRIVATE KEY-----\n",
+  "client_email": "quiz-24@asmph-2025-review.iam.gserviceaccount.com",
+  "client_id": "105147870866364796345",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/quiz-24%40asmph-2025-review.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
