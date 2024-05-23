@@ -5,6 +5,10 @@ import requests
 import config
 import reset
 
+sudo apt remove python3-pip
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python3 get-pip.py
+
 # Authorize Google Sheets
 try:
 	scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
