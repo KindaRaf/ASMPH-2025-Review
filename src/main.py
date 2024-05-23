@@ -29,7 +29,7 @@ if question == "":
 		index_val = index.cell(1, 1).value
 		question = datasheet.cell(index_val, 1).value
 	else:
-		print("No questions found in the Google sheet!")
+		print("Questions coming soon!")
 		exit(1)
 
 options = [datasheet.cell(index_val, i + 2).value for i in range(10)]
