@@ -14,9 +14,7 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
       
-sudo rm -rf /usr/lib/python3/dist-packages/OpenSSL
-sudo pip3 install pyopenssl
-sudo pip3 install pyopenssl --upgrade
+install pyopenssl --upgrade
 
     - name: Send quiz
       run: python src/main.py
